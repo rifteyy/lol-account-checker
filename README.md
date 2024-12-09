@@ -4,6 +4,7 @@ Open Checker is an all-in-one solution for managing League of Legends accounts.
 My biggest project that took me 6 months of constant coding to finish. I started this with no prior experience in LCU or RC API's for League.
 
 NOTE: I have used OC on my main machine before and after Vanguard without any punishment, but I can not tell if it is gonna be bannable in the future. Use at your own risk!
+NOTE 2: While importing, it will ask you for account password to find the creation date, last password change date and other info. This was unfortunately recently patched by Riot.
 
 
 ## 🌟 Overview
