@@ -1,0 +1,174 @@
+account-1-start
+password[1]=no
+ward_count[1]=2
+icon_count[1]=2
+emote_count[1]=3
+rune_page_count[1]=1
+rune_page_date[1]=2024-01-01 10:00:00
+xp_boost[1]=1970-01-01 00:59:59
+login[1]=DummyLogin1
+summoner[1]=SummonerOne#TEST
+level[1]=30
+emailverified[1]=True
+email[1]=dummy.email1@example.com
+region[1]=EUW
+honorlevel[1]=3
+checkpoint[1]=1
+rankedrestriction[1]=0
+skinsamount[1]=2
+champsamount[1]=5
+rp[1]=100
+be[1]=4500
+oe[1]=200
+me[1]=10
+token[1]=50
+urs_count[1]=3
+creation_country[1]=Germany
+age[1]=5
+verified_number[1]=True
+puuid[1]=12345678-1234-5678-1234-567812345678
+accountid[1]=1000001
+summonerid[1]=2000001
+export_date[1]=2024-01-01
+last_match[1]=2024-01-01 12:00:00
+
+icon_name[1][1]=First Test Icon
+icon_date[1][1]=2023-01-01 12:00:00
+icon_name[2][1]=Second Test Icon
+icon_date[2][1]=2023-01-02 13:00:00
+icons[1]=2
+
+skin_name[1][1]=Dummy Skin 1
+skin_date[1][1]=2023-01-10 15:00:00
+skin_islegacy[1][1]=False
+skin_rarity[1][1]=kLegendary
+skin_name[2][1]=Dummy Skin 2
+skin_date[2][1]=2023-01-11 16:00:00
+skin_islegacy[1][2]=True
+skin_rarity[1][2]=kEpic
+rarity_count[1][klegendary]=1
+rarity_count[1][kepic]=1
+legacy_count[1][True]=1
+legacy_count[1][False]=1
+rare_skin[1][1]=Rare Skin A
+rare_skin[1][2]=Rare Skin B
+
+champ_name[1][1]=Champion A
+champ_date[1][1]=2023-01-01 11:00:00
+champ_name[2][1]=Champion B
+champ_date[2][1]=2023-01-02 12:00:00
+champ_name[3][1]=Champion C
+champ_date[3][1]=2023-01-03 13:00:00
+champ_name[4][1]=Champion D
+champ_date[4][1]=2023-01-04 14:00:00
+champ_name[5][1]=Champion E
+champ_date[5][1]=2023-01-05 15:00:00
+
+tft_map_skin_name[1][1]=Default Arena
+tft_map_skin_date[1][1]=2024-01-01 10:10:00
+tft_map_skin_count[1]=1
+
+tft_booms_name[1][1]=Boom 1
+tft_booms_date[1][1]=2024-01-01 10:20:00
+tft_booms_count[1]=1
+
+tft_little_legend_name[1][1]=Legend 1
+tft_little_legend_date[1][1]=2023-12-01 10:00:00
+tft_little_legend_count[1]=1
+
+RANKED_SOLO_5X5[rank][1]=Silver
+RANKED_SOLO_5X5[division][1]=IV
+RANKED_SOLO_5X5[lp][1]=45
+RANKED_SOLO_5X5[wins][1]=12
+RANKED_SOLO_5X5[losses][1]=10
+RANKED_SOLO_5X5[winRate][1]=54.55%
+
+RANKED_FLEX_SR[rank][1]=Bronze
+RANKED_FLEX_SR[division][1]=III
+RANKED_FLEX_SR[lp][1]=20
+RANKED_FLEX_SR[wins][1]=8
+RANKED_FLEX_SR[losses][1]=12
+RANKED_FLEX_SR[winRate][1]=40.00%
+account-1-end
+
+account-2-start
+password[2]=no
+ward_count[2]=1
+icon_count[2]=1
+emote_count[2]=1
+rune_page_count[2]=1
+rune_page_date[2]=2023-12-01 12:30:00
+xp_boost[2]=1970-01-01 00:59:59
+login[2]=DummyLogin2
+summoner[2]=SummonerTwo#TEST
+level[2]=15
+emailverified[2]=False
+email[2]=dummy.email2@example.com
+region[2]=NA
+honorlevel[2]=2
+checkpoint[2]=0
+rankedrestriction[2]=0
+skinsamount[2]=1
+champsamount[2]=3
+rp[2]=0
+be[2]=2000
+oe[2]=50
+me[2]=5
+token[2]=10
+urs_count[2]=1
+creation_country[2]=USA
+age[2]=2
+verified_number[2]=False
+puuid[2]=87654321-4321-8765-4321-876543218765
+accountid[2]=1000002
+summonerid[2]=2000002
+export_date[2]=2023-12-01
+last_match[2]=2023-12-01 11:00:00
+
+icon_name[1][2]=Test Icon A
+icon_date[1][2]=2022-11-01 08:00:00
+icons[2]=1
+
+skin_name[1][2]=Sample Skin A
+skin_date[1][2]=2022-12-10 14:30:00
+skin_islegacy[2][1]=False
+skin_rarity[2][1]=kEpic
+rarity_count[2][klegendary]=0
+rarity_count[2][kepic]=1
+legacy_count[2][True]=0
+legacy_count[2][False]=1
+rare_skin[2][1]=Rare Skin C
+
+champ_name[1][2]=Champion X
+champ_date[1][2]=2022-11-01 10:00:00
+champ_name[2][2]=Champion Y
+champ_date[2][2]=2022-11-02 11:00:00
+champ_name[3][2]=Champion Z
+champ_date[3][2]=2022-11-03 12:00:00
+
+tft_map_skin_name[1][2]=Default Arena
+tft_map_skin_date[1][2]=2023-12-02 10:20:00
+tft_map_skin_count[2]=1
+
+tft_booms_name[1][2]=Boom A
+tft_booms_date[1][2]=2023-12-01 10:20:00
+tft_booms_count[2]=1
+
+tft_little_legend_name[1][2]=Legend A
+tft_little_legend_date[1][2]=2023-11-01 10:00:00
+tft_little_legend_count[2]=1
+
+RANKED_SOLO_5X5[rank][2]=Iron
+RANKED_SOLO_5X5[division][2]=I
+RANKED_SOLO_5X5[lp][2]=15
+RANKED_SOLO_5X5[wins][2]=5
+RANKED_SOLO_5X5[losses][2]=8
+RANKED_SOLO_5X5[winRate][2]=38.46%
+
+RANKED_FLEX_SR[rank][2]=Unranked
+RANKED_FLEX_SR[division][2]=NA
+RANKED_FLEX_SR[lp][2]=0
+RANKED_FLEX_SR[wins][2]=0
+RANKED_FLEX_SR[losses][2]=0
+RANKED_FLEX_SR[winRate][2]=0.00%
+account-2-end
