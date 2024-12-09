@@ -1,0 +1,1 @@
+"{Region}";"{Username}";"{Password}";"{Summoner Name}";"{Email Address}";"{Level}";"{RP}";"{BE}";"{Champions count}";"{Skins count}";"{SoloQ rank}";"{FlexQ rank}"

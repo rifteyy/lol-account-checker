@@ -1,0 +1,79 @@
+{Region}
+{Username}
+{Password}
+{Summoner Name}
+{Email is verified?}
+{Email Address}
+{Level}
+{RP}
+{BE}
+{ME}
+{OE}
+{Champions count}
+{Skins count}
+{SoloQ Rank}
+{FlexQ Rank}
+{TFT Rank}
+{TFT Double Up Rank}
+{TFT Turbo Rank}
+{No rarity skin count}
+{Ultimate skin count}
+{Mythic skin count}
+{Legendary skin count}
+{Epic skin count}
+{Legacy skin count}
+{Non-legacy skin count}
+{Rare Skin Count}
+{Ward Skin Count}
+{Emote Count}
+{Icon count}
+{TFT Map Skins count}
+{TFT Booms count}
+{TFT Little Legends count}
+{Owned Icons}
+{Owned Rare Skins}
+{Owned Champions}
+{Owned Skins}
+{Owned TFT Map Skins}
+{Owned TFT Booms}
+{Owned TFT Little Legends}
+{#IconName}
+{#IconDate}
+{#RareSkinName}
+{#ChampionName}
+{#ChampionDate}
+{#SkinName}
+{#SkinDate}
+{#SkinLegacy}
+{#SkinRarity}
+{#TFTMapSkinName}
+{#TFTMapSkinDate}
+{#TFTBoomsName}
+{#TFTBoomsDate}
+{#TFTLittleLegendsName}
+{#TFTLittleLegendsDate}
+{Honor Level}
+{Honor Checkpoint}
+{XP Boost end}
+{Ranked Restriction remaining games}
+{Rune pages count}
+{Prime Capsules Count}
+{Last match played}
+{Friends Count}
+{Friendlist}
+{Export date}
+{Verified phone number?}
+{Age}
+{First 3 Skins}
+{First 5 Champions}
+{Creation country}
+{Authentication}
+{Account ID}
+{Summoner ID}
+{puuid}
+{Index}
+{Creation date}
+{Last password change}
+
+
+

@@ -1,0 +1,7 @@
+league_client=C:\Riot Games\League of Legends\LeagueClient.exe
+riot_client_services=C:\Riot Games\Riot Client\RiotClientServices.exe
+r=106
+g=90
+b=205
+censormode=[ ]
+debug=[ ]
