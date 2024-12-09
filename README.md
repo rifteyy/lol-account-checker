@@ -1,4 +1,6 @@
 # Open Checker
+![Screenshot of Open Checker](showcase/Screenshot_1.png)
+
 Open Checker is an all-in-one solution for managing League of Legends accounts.
 
 My biggest project that took me 6 months of constant coding to finish. I started this with no prior experience in LCU or RC API's for League.
@@ -136,3 +138,12 @@ skinsamount[1]=5
 skin_name[1][1]=PAX Jax
 skin_name[1][2]=Neo PAX Jax
 account-1-end
+```
+
+## More screenshots (all are available in showcase\)
+![Screenshot of Open Checker](showcase/Screenshot_7.png)
+![Screenshot of Open Checker](showcase/Screenshot_2.png)
+![Screenshot of Open Checker](showcase/Screenshot_3.png)
+![Screenshot of Open Checker](showcase/Screenshot_4.png)
+![Screenshot of Open Checker](showcase/Screenshot_5.png)
+![Screenshot of Open Checker](showcase/Screenshot_6.png)
