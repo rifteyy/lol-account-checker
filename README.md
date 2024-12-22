@@ -7,6 +7,10 @@ My biggest project that took me 6 months of constant coding to finish. I started
 
 If importing accounts does not work for you, run PowerShell as administrator and type `Set-ExecutionPolicy RemoteSigned`.
 
+Please add my Discord if you need help/support or have a question regarding my GitHub projects. Don't add me if you want me to code/add something for you.
+
+---
+
 NOTE: I have used OC on my main machine before and after Vanguard without any punishment, but I can not tell if it is gonna be bannable in the future. Use at your own risk!
 
 NOTE 2: While importing, it will ask you for account password to find the creation date, last password change date and other info. This was unfortunately recently patched by Riot.
