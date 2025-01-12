@@ -51,23 +51,31 @@ NOTE 2: While importing, it will ask you for account password to find the creati
 
 ### 📑 How to open a list?
 
-#### Associating file extension (best way)
+#### - Associating file extension (best way)
 1. Open `start.bat` as administrator (yes, has to be as administrator)
 2. Select `Associate .OCKR files with start.bat` and press X
 3. Now you should be able to just double-click any `.OCKR` list and it will launch it.
 
-#### If associating does not work for you
+#### - If associating does not work for you
 1. Drag `.OCKR` on `start.bat` and it will launch the list
 
-#### In explorer
+#### - In explorer
 1. Open `start.bat`
 2. Select `Select list in explorer window`
 3. In the explorer window find the desired `.OCKR` file and select it
 
-#### Dragging in the window
+#### - Dragging in the window
 1. Open `start.bat`
 2. Select `Drag into this window to import a list`
 3. Drag your `.OCKR` file in the window, it will copy the filepath and press enter.
+
+### Importing my first account
+1. Open a created `.OCKR` list
+2. Using Q-E controls, select above `Import` and press X
+3. Log in your League of Legends account and launch League
+4. Select variant `Import from account you are logged to currently`
+5. Type in `no` if it asks you for password
+6. Your account should be imported in the list you select prior to importing.
 
 ### Troubleshooting FAQ
 - Importing works currently only for `Import from account you are logged to currently`, not for combolists/credentials because of Riot API changes
