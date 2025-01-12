@@ -16,7 +16,7 @@ NOTE: I have used OC on my main machine before and after Vanguard without any pu
 NOTE 2: While importing, it will ask you for account password to find the creation date, last password change date and other info. This was unfortunately recently patched by Riot.
 
 
-## 🌟 Overview
+# 🌟 Overview
 
 ### Main Tab Information:
 - **Account Details:**
@@ -35,7 +35,7 @@ NOTE 2: While importing, it will ask you for account password to find the creati
 
 ---
 
-## 🛠️ Running and troubleshooting
+# 🛠️ Running and troubleshooting
 
 ### How to run?
 1. Download all the files from this repository in .ZIP
@@ -68,6 +68,11 @@ NOTE 2: While importing, it will ask you for account password to find the creati
 1. Open `start.bat`
 2. Select `Drag into this window to import a list`
 3. Drag your `.OCKR` file in the window, it will copy the filepath and press enter.
+
+### Troubleshooting FAQ
+- Importing works currently only for `Import from account you are logged to currently`, not for combolists/credentials because of Riot API changes
+- Does importing not work at all, or it leaves a bunch of weird words in the list file? Open PowerShell as administrator and type in `Set-ExecutionPolicy RemoteSigned`, restart the app.
+- If something else does not work, contact me on Discord or open an issue.
 
 ---
 
