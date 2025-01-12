@@ -40,8 +40,9 @@ NOTE 2: While importing, it will ask you for account password to find the creati
 ### How to run?
 1. Download all the files from this repository in .ZIP
 2. Extract the full .ZIP in a folder (the files must be in same folder together, otherwise it won't launch)
-3. Open `start.bat` and confirm the smartscreen warning
-4. Scroll down using controls to `Update/repair..." and press X to update to all cosmetics the newest patch
+3. Open Powershell as administrator, type in `Set-ExecutionPolicy RemoteSigned` (this is necessary for importing, read more at https://learn.microsoft.com/en-us/powershell/module/microsoft.powershell.security/set-executionpolicy?view=powershell-7.4)
+4. Open `start.bat` and confirm the smartscreen warning
+5. Scroll down using controls to `Update/repair..." and press X to update to all cosmetics the newest patch
 
 ### How to create first list?
 1. Open your explorer, desktop, wherever you want
