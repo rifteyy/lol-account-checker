@@ -35,6 +35,42 @@ NOTE 2: While importing, it will ask you for account password to find the creati
 
 ---
 
+## 🛠️ Running and troubleshooting
+
+### How to run?
+1. Download all the files from this repository in .ZIP
+2. Extract the full .ZIP in a folder (the files must be in same folder together, otherwise it won't launch)
+3. Open `start.bat` and confirm the smartscreen warning
+4. Scroll down using controls to `Update/repair..." and press X to update to all cosmetics the newest patch
+
+### How to create first list?
+1. Open your explorer, desktop, wherever you want
+2. Create a text file, name it for example `test.txt`
+3. Rename the file extension from `.txt` to `.ockr`
+4. Now you have your first list! Lists serve as holders of all the account data.
+
+### 📑 How to open a list?
+
+#### Associating file extension (best way)
+1. Open `start.bat` as administrator (yes, has to be as administrator)
+2. Select `Associate .OCKR files with start.bat` and press X
+3. Now you should be able to just double-click any `.OCKR` list and it will launch it.
+
+#### If associating does not work for you
+1. Drag `.OCKR` on `start.bat` and it will launch the list
+
+#### In explorer
+1. Open `start.bat`
+2. Select `Select list in explorer window`
+3. In the explorer window find the desired `.OCKR` file and select it
+
+#### Dragging in the window
+1. Open `start.bat`
+2. Select `Drag into this window to import a list`
+3. Drag your `.OCKR` file in the window, it will copy the filepath and press enter.
+
+---
+
 ## 🔥 Features
 
 ### **Copy Features**
