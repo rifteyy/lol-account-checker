@@ -85,7 +85,7 @@ NOTE 2: While importing, it will ask you for account password to find the creati
 
 ### Troubleshooting FAQ
 - Importing works currently only for `Import from account you are logged to currently`, not for combolists/credentials because of Riot API changes
-- Does importing not work at all, or it leaves a bunch of weird words in the list file? Open PowerShell as administrator and type in `Set-ExecutionPolicy RemoteSigned`, restart the app.
+- Does importing not work at all, or it leaves a bunch of weird words in the list file even after using the `Set-ExecutionPolicy RemoteSigned`? Open PowerShell as administrator and type in `Set-ExecutionPolicy Bypass`, restart the app.
 - If something else does not work, contact me on Discord or open an issue.
 - Why is this so hard to use? Because I never expected I would release it. I made it just perfect for me to work fast with it. I do not use this program anymore, so I will not keep it up-to date. If you don't like the controls, feel free to go purchase a 1) different checker 2) residential proxies with sticky sessions 3) working captcha solver. This program is a perfect solution for "home" users that would like to export few of their smurfs, not for mass importing.
 
